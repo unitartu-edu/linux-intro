@@ -1,2 +1,2 @@
 # linux-intro
-Files for the linux introduction nugget on skills.move
+Files for the linux terminal introduction nugget on skills.move
